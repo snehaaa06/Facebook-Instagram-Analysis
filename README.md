@@ -16,4 +16,4 @@ ad campaign performance.
 - Data Source: Meta Ads Dataset
 
 ## Dashboard Preview
-![Dashboard](powerbi.png)
+![Dashboard](power%20bi.png)
